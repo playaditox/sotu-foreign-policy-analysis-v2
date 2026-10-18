@@ -47,6 +47,19 @@ def verify(root=ROOT,check_tracked=True):
     for field in ['html','snapshot']:
         record=build[field]
         if digest((root/'portfolio/release'/record['path']).read_bytes())!=record['sha256']:raise ValueError('Compiled release mismatch: '+field)
+    from html.parser import HTMLParser
+    class TagParser(HTMLParser):
+        def __init__(self):super().__init__();self.heads=0;self.loaders=[];self.head_children=[];self.in_head=False
+        def handle_starttag(self,tag,attrs):
+            if tag=='head':self.heads+=1;self.in_head=True
+            elif self.in_head:
+                self.head_children.append(tag)
+                if tag=='script' and 'googletagmanager.com/gtag/js' in dict(attrs).get('src',''):self.loaders.append(dict(attrs)['src'])
+        def handle_endtag(self,tag):
+            if tag=='head':self.in_head=False
+    html=(root/'portfolio/release'/build['html']['path']).read_text();parser=TagParser();parser.feed(html)
+    if parser.heads!=1 or parser.head_children[:2]!=['script','script'] or parser.loaders!=['https://www.googletagmanager.com/gtag/js?id=G-358D960PXL'] or html.count("gtag('config', 'G-358D960PXL');")!=1:
+        raise ValueError('Expected one owner Google tag immediately after the head element')
     snapshot=json.loads((root/'portfolio/release'/build['snapshot']['path']).read_text())
     if snapshot!=data:raise ValueError('Compiled report snapshot differs from source')
     if manifest['repository_url']!='https://github.com/playaditox/sotu-foreign-policy-analysis-v2':raise ValueError('Wrong repository destination')

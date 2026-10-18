@@ -126,8 +126,8 @@
     },
     {
       "path": "portfolio/BUILD.md",
-      "bytes": 1258,
-      "sha256": "5d4de772330177937153056d87b357687d8d61a41ef80baaf46a08bcba1b2070"
+      "bytes": 1484,
+      "sha256": "fb1524c7616d3ab3e3c0a0eb30165da38b83a319c025088d7297e076bb3b9338"
     },
     {
       "path": "portfolio/docs/components/README.md",
@@ -216,13 +216,13 @@
     },
     {
       "path": "portfolio/release/data-app-build.json",
-      "bytes": 594,
-      "sha256": "7dfceaa64f312019b0b1f24506050792295a707f88693388575231a7def47397"
+      "bytes": 690,
+      "sha256": "d5eac345a6309dbaba031df69c0c834040da3a5bbc3ecf1cbe9e8bf82970c2c5"
     },
     {
       "path": "portfolio/release/index.html",
-      "bytes": 2998628,
-      "sha256": "463d9570a5737b5ec4ff767f6915f0fcb1a4078a68148b7417bfc58ef3e4721a"
+      "bytes": 2998916,
+      "sha256": "0dc4b730c31bd5c9e6ecaaa75422260322e7637bcb9821c1b00bbe0e2ee83e88"
     },
     {
       "path": "portfolio/release/snapshot.3b25ad81fd8ac387d0e7fa676e1c673a3e6dcfff68a6f9b1afc35e3f178bd241.json",
@@ -1435,9 +1435,14 @@
       "sha256": "7ce0e0988cc71b39b4b5f9e8c48eaa444cfd1c496f73f5b8bc14d22bcbc06352"
     },
     {
+      "path": "scripts/package_public_report.py",
+      "bytes": 2684,
+      "sha256": "cc414f0b7c3ab999f4f7415186e1988f467ea17e4e232bb7a4c70e343182876f"
+    },
+    {
       "path": "scripts/verify_public_release.py",
-      "bytes": 3614,
-      "sha256": "eded4afabc8ca1695b92cabb35feee8eece08d472fcf50ea7be70ce897c6e341"
+      "bytes": 4609,
+      "sha256": "8b454e3c883004af88258bec5d5d0b777ae54a8b4d0b4d7f5efa83adaf109d7d"
     },
     {
       "path": "src/sotu_v2/__init__.py",
