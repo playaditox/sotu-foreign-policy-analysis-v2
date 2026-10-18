@@ -1,0 +1,154 @@
+.report-page {
+  --data-app-layout-intent: authored-report;
+  --data-app-content-width: 1040px;
+  --data-app-report-prose-width: 790px;
+  max-width: calc(var(--data-app-content-width) + 72px);
+  margin-inline: auto;
+  padding: 44px 36px 104px;
+}
+.sotu-report { display: grid; gap: 44px; min-width: 0; color: var(--text); }
+.sotu-report > *, .sotu-question > *, .sotu-methods > * { min-width: 0; }
+.sotu-hero { display: grid; gap: 20px; max-width: 870px; }
+.sotu-project-bar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px 20px; }
+.sotu-repository-link { display: inline-flex; align-items: center; gap: 8px; min-height: 40px; padding: 8px 13px; border: 1px solid var(--border); border-radius: 8px; color: var(--text); font-size: 14px; font-weight: 550; line-height: 1.4; text-decoration: none; }
+.sotu-repository-link:hover { background: var(--surface); border-color: var(--secondary); }
+.sotu-repository-link:focus-visible { outline: 2px solid var(--chart-1); outline-offset: 3px; }
+.sotu-eyebrow { color: var(--secondary); font-size: 12px; font-weight: 600; letter-spacing: .13em; }
+.sotu-hero h1 { margin: 0; font-size: clamp(36px, 4.6vw, 54px); line-height: 1.08; letter-spacing: -.035em; font-weight: 600; text-wrap: balance; }
+.sotu-report .rich-narrative-content { font-size: 16px; line-height: 1.65; color: var(--secondary); }
+.sotu-report .rich-narrative-content :is(h2,h3,h4) { color: var(--text); font-weight: 550; letter-spacing: -.02em; }
+.sotu-report .rich-narrative-content h2 { font-size: 24px; line-height: 1.25; margin: 0 0 14px; }
+.sotu-report .rich-narrative-content h3 { font-size: 20px; line-height: 1.35; margin: 22px 0 12px; }
+.sotu-report .rich-narrative-content :is(p,ul,ol) { margin: 0 0 12px; }
+.sotu-report .rich-narrative-content :last-child { margin-bottom: 0; }
+.sotu-report .rich-narrative-content strong { color: var(--text); font-weight: 600; }
+.sotu-report .rich-narrative-content li + li { margin-top: 12px; }
+.sotu-report .rich-narrative-content ul { padding-left: 22px; }
+.sotu-hero .rich-narrative-content { font-size: 19px; line-height: 1.5; max-width: 720px; }
+.sotu-status { border-left: 3px solid var(--chart-1); padding: 3px 0 3px 12px; font-size: 13px; font-weight: 550; }
+.sotu-status span { display: block; margin-top: 5px; font-size: 12px; line-height: 1.5; color: var(--secondary); font-weight: 400; }
+.sotu-controls { display: flex; flex-wrap: wrap; gap: 16px 24px; align-items: end; padding-block: 20px; border-block: 1px solid var(--border); }
+.sotu-control-group { display: grid; gap: 8px; max-width: 100%; }
+.sotu-control-label { font-size: 12px; font-weight: 600; color: var(--secondary); }
+.sotu-summary { max-width: 850px; }
+.sotu-metrics { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 16px; }
+.sotu-metric-value { margin-top: 6px; font-size: 32px; line-height: 1.2; font-weight: 550; letter-spacing: -.03em; }
+.sotu-metric-detail { color: var(--secondary); font-size: 12px; line-height: 1.5; margin-top: 9px; }
+.sotu-question { display: grid; gap: 24px; }
+.sotu-question .report-narrative-section { max-width: 850px; }
+.sotu-tradition-key { display: grid; grid-template-columns: repeat(4,minmax(0,1fr)); gap: 18px; }
+.sotu-tradition-key > div { display: grid; grid-template-columns: 18px 1fr; gap: 5px 7px; align-content: start; }
+.sotu-tradition-key strong { font-size: 13px; font-weight: 600; }
+.sotu-tradition-key > div > span:last-child { grid-column: 2; color: var(--secondary); font-size: 12px; line-height: 1.5; }
+.sotu-series-swatch { height: 3px; width: 16px; margin-top: 8px; }
+.sotu-event-rail { position: relative; height: 126px; margin: 18px 16px 4px; }
+.sotu-rail-baseline { position: absolute; inset: 58px 0 auto; border-top: 1px solid var(--border); }
+.sotu-event-marker { position: absolute; display: grid; place-items: center; width: 22px; height: 22px; transform: translateX(-50%); padding: 0; border: 0; background: transparent; cursor: pointer; z-index: 2; }
+.sotu-event-dot { display: inline-block; width: 9px; height: 9px; flex: 0 0 9px; border-radius: 50%; background: #b6423a; border: 1px solid #b6423a; }
+.sotu-event-range { position: absolute; height: 3px; border-radius: 2px; background: #b6423a; opacity: .25; pointer-events: none; }
+.sotu-event-marker:focus-visible { outline: 2px solid #b6423a; outline-offset: 2px; border-radius: 50%; }
+.sotu-event-marker:is(:hover,:focus-visible,.is-selected) .sotu-event-dot { background: var(--background); box-shadow: 0 0 0 2px #b6423a; }
+.sotu-event-tooltip { position: absolute; display: none; bottom: 28px; left: 50%; transform: translateX(var(--tip-shift,-50%)); z-index: 20; width: max-content; max-width: min(230px,65vw); background: var(--background); color: var(--text); border: 1px solid var(--border); padding: 9px 12px; border-radius: 8px; font-size: 12px; font-weight: 550; line-height: 1.4; text-align: left; box-shadow: 0 4px 16px #0000000e; pointer-events: none; }
+.sotu-event-tooltip small { display: block; color: var(--secondary); font-weight: 400; margin-top: 4px; }
+.sotu-event-marker:is(:hover,:focus-visible) { z-index: 30; }
+.sotu-event-marker:is(:hover,:focus-visible) .sotu-event-tooltip { display: block; }
+.sotu-event-guide { position: absolute; top: 8px; height: 85px; border-left: 1px dashed #b6423a; pointer-events: none; opacity: .75; }
+.sotu-event-ticks { position: absolute; inset: 99px 0 auto; color: var(--secondary); font-size: 11px; font-variant-numeric: tabular-nums; }
+.sotu-event-ticks span { position: absolute; transform: translateX(-50%); }
+.sotu-event-key { display: flex; gap: 8px; align-items: center; color: var(--secondary); font-size: 12px; line-height: 1.5; }
+.sotu-event-detail { display: grid; gap: 7px; padding: 14px 0 0 16px; border-left: 2px solid #b6423a; margin-top: 18px; font-size: 13px; line-height: 1.6; }
+.sotu-event-detail > span, .sotu-event-prompt { color: var(--secondary); font-size: 12px; }
+.sotu-event-detail p { margin: 0; }
+.sotu-event-prompt { margin-top: 12px; line-height: 1.6; }
+.sotu-event-list { margin-top: 14px; font-size: 13px; }
+.sotu-event-list summary, .sotu-context summary { cursor: pointer; color: var(--text); padding-block: 5px; }
+.sotu-event-list ul { list-style: none; padding-left: 0; display: grid; gap: 9px; }
+.sotu-event-list li { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 6px 18px; }
+.sotu-event-list button { color: var(--text); font: inherit; background: none; border: 0; padding: 0; text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 3px; cursor: pointer; text-align: left; }
+.sotu-event-list li > span { color: var(--secondary); font-size: 12px; }
+.sotu-empty { border: 1px dashed var(--border); color: var(--secondary); padding: 26px 20px; font-size: 14px; line-height: 1.6; border-radius: 12px; }
+.sotu-passages { display: grid; gap: 24px; }
+.sotu-sentence-preview { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; max-width: 480px; white-space: normal; line-height: 1.5; }
+.sotu-passage-meta { color: var(--secondary); font-size: 12px; line-height: 1.5; }
+.sotu-passage-quote { margin: 18px 0; padding: 0; border: 0; font-size: 18px; line-height: 1.65; letter-spacing: -.01em; }
+.sotu-labels { display: flex; flex-wrap: wrap; gap: 8px; }
+.sotu-label { border: 1px solid; border-radius: 5px; padding: 4px 8px; font-size: 12px; background: var(--background); }
+.sotu-matched-evidence { margin-top: 16px; font-size: 13px; line-height: 1.65; color: var(--secondary); }
+.sotu-matched-evidence p { margin-block: 7px; overflow-wrap: anywhere; }
+.sotu-matched-evidence strong { color: var(--text); font-weight: 550; }
+.sotu-context { margin-top: 18px; font-size: 13px; line-height: 1.7; }
+.sotu-context p { margin-bottom: 0; color: var(--secondary); }
+.sotu-source-link { display: inline-block; font-size: 13px; margin-top: 20px; }
+.sotu-report a { color: var(--text); text-underline-offset: 3px; }
+.sotu-methods { display: grid; gap: 28px; border-top: 1px solid var(--border); padding-top: 32px; }
+.sotu-methods .rich-narrative { max-width: 850px; }
+@media(max-width: 760px) {
+  .report-page { padding: 28px 20px 72px; }
+  .sotu-report { gap: 36px; }
+  .sotu-metrics { grid-template-columns: 1fr; gap: 12px; }
+  .sotu-tradition-key { grid-template-columns: repeat(2,minmax(0,1fr)); }
+  .sotu-controls { align-items: stretch; }
+  .sotu-control-group { width: 100%; }
+  .sotu-event-ticks span:nth-child(even):not(:last-child) { visibility: hidden; }
+  .sotu-passage-quote { font-size: 16px; }
+}
+@media print {
+  .sotu-event-list[open] ul, .sotu-context[open] p { display: block; }
+  .sotu-event-tooltip { display: none; }
+  .sotu-question { break-inside: auto; }
+}
+.sotu-year-control { width: 100%; max-width: 550px; padding-top: 2px; }
+.sotu-evidence-scope { color: var(--secondary); font-size: 13px; line-height: 1.6; max-width: 850px; }
+.sotu-event-range.is-ongoing { background: none; border-top: 2px dashed #b6423a; height: 0; opacity: .6; }
+.sotu-event-range.is-ongoing::after { content: "›"; position: absolute; right: -1px; top: -12px; color: #b6423a; font-size: 18px; line-height: 18px; }
+.sotu-frame-caution { border-left: 3px solid #a86d16; padding-left: 14px; }
+.sotu-event-continuation { color: #b6423a; font-size: 22px; line-height: 18px; }
+
+/* Historical context adorns the connected chart; native axes and interaction stay intact. */
+.sotu-history-plot { position: relative; }
+.sotu-history-layer { position: absolute; inset: 0; pointer-events: none; z-index: 1; }
+.sotu-history-band { position: absolute; background: #b6423a; opacity: .035; }
+.sotu-history-guide { position: absolute; border-left: 1px solid #b6423a; opacity: .18; }
+.sotu-history-duration { position: absolute; height: 3px; background: #b6423a; opacity: .45; }
+.sotu-history-duration.is-ongoing::after { content: '›'; position: absolute; right: -2px; top: -11px; color: #b6423a; font-size: 19px; }
+.sotu-history-mark { position: absolute; width: 22px; height: 22px; transform: translate(-50%, -50%); display: grid; place-items: center; border: 0; padding: 0; background: transparent; cursor: pointer; pointer-events: auto; }
+.sotu-history-mark .sotu-event-dot { width: 7px; height: 7px; box-shadow: 0 0 0 2px var(--surface); }
+.sotu-history-mark:focus-visible { outline: 2px solid #b6423a; outline-offset: 0; border-radius: 50%; }
+.sotu-history-mark:hover .sotu-event-dot { width: 11px; height: 11px; }
+.sotu-history-key { display: flex; align-items: baseline; gap: 9px; font-size: 13px; color: var(--secondary); }
+.sotu-history-key .sotu-event-dot { flex: 0 0 7px; width: 7px; height: 7px; }
+.sotu-history-caption, .sotu-history-fallback { color: var(--secondary); font-size: 13px; line-height: 1.65; }
+.sotu-history-list { display: grid; gap: 18px; padding-inline-start: 24px; font-size: 13px; }
+.sotu-history-list li { padding-inline-start: 5px; }
+.sotu-history-list li > span { display: block; color: var(--secondary); }
+.sotu-history-list p { margin: 5px 0; }
+.sotu-history-tooltip { width: min(280px, calc(100vw - 56px)); min-width: 0; font-family: var(--font-sans, system-ui, sans-serif); font-size: 13px; line-height: 1.5; color: var(--text); white-space: normal; overflow-wrap: anywhere; }
+.sotu-history-tooltip > * { margin: 0; }
+.sotu-history-tooltip > * + * { margin-top: 8px; }
+.sotu-history-tooltip > strong { display: block; font-weight: 600; }
+.sotu-history-tooltip-date, .sotu-history-tooltip-note { color: var(--secondary); }
+.sotu-history-tooltip-note { font-size: 12px; }
+.sotu-coverage-headline { display: grid; gap: 6px; margin-bottom: 16px; }
+.sotu-coverage-headline strong { font-size: 23px; font-weight: 600; }
+.sotu-coverage-headline span { color: var(--secondary); font-size: 14px; }
+.sotu-issue-example blockquote { border-left: 3px solid #477fb6; padding-left: 18px; margin: 20px 0; font-size: 18px; line-height: 1.65; }
+.sotu-issue-example .sotu-context { font-size: 13px; color: var(--secondary); }
+.sotu-tradition-profiles { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 24px; margin-block: 20px; }
+.sotu-tradition-profiles h3 { margin-top: 0; }
+.sotu-tradition-profiles p { font-size: 14px; line-height: 1.65; }
+.sotu-era-definitions { margin: 18px 0 0; }
+.sotu-era-definition-row { display: grid; grid-template-columns: 290px minmax(0,1fr); gap: 22px; padding-block: 18px; border-bottom: 1px solid var(--border); font-size: 14px; line-height: 1.65; }
+.sotu-era-definition-row dt { display: grid; grid-template-columns: minmax(0,1fr) 100px; gap: 16px; }
+.sotu-era-definition-row dt strong { font-weight: 550; }
+.sotu-era-definition-row dt span, .sotu-era-definition-row dd { color: var(--secondary); }
+.sotu-era-definition-row dd { margin: 0; }
+@media(max-width: 760px) {
+  .sotu-era-definition-row { grid-template-columns: 1fr; gap: 8px; }
+  .sotu-era-definition-row dt { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 6px 16px; }
+}
+@media(max-width: 760px) { .sotu-tradition-profiles { grid-template-columns: 1fr; } }
+.sotu-era-weighting { display: flex; flex-wrap: wrap; align-items: end; gap: 12px 24px; }
+.sotu-era-weighting > p { margin: 0; flex: 1 1 280px; max-width: 570px; }
+.sotu-era-comparison-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 24px; align-items: start; }
+.sotu-era-comparison-grid > * { min-width: 0; }
+@media(max-width: 900px) { .sotu-era-comparison-grid { grid-template-columns: 1fr; } }

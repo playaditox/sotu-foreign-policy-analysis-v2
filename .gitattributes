@@ -1,0 +1,18 @@
+# Keep copied presentation infrastructure distinct from authored analysis.
+portfolio/src/** linguist-vendored
+portfolio/scripts/** linguist-vendored
+portfolio/docs/components/** linguist-vendored
+portfolio/src/content/** -linguist-vendored
+portfolio/src/theme.css -linguist-vendored
+
+# Full reviewed snapshots remain inspectable without overwhelming source diffs.
+portfolio/release/** linguist-generated
+portfolio/src/data.json linguist-generated
+output/portfolio_snapshot.json linguist-generated
+output/tables/** linguist-generated
+output/topics_1946_2026/** linguist-generated
+data/raw/app_1946_2026/snapshots/*.json linguist-generated
+
+# CSV writer line endings and compiled chart output are generated artifacts.
+*.csv whitespace=cr-at-eol
+portfolio/release/** -whitespace

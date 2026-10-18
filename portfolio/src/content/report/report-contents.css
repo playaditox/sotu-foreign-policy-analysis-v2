@@ -1,0 +1,13 @@
+.sotu-report .sotu-contents { border-block: 1px solid var(--border); padding-block: 15px; }
+.sotu-report .sotu-contents > summary { cursor: pointer; font-size: 15px; font-weight: 600; }
+.sotu-report .sotu-contents-sections { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); grid-template-rows: repeat(5,auto); grid-auto-flow: column; gap: 14px 30px; list-style: none; margin: 16px 0 0; padding: 0; }
+.sotu-report .sotu-contents-section { font-size: 14px; font-weight: 550; line-height: 1.45; text-decoration: none; }
+.sotu-report .sotu-contents-subsections { display: flex; flex-wrap: wrap; gap: 3px 12px; list-style: none; margin: 5px 0 0; padding: 0; }
+.sotu-report .sotu-contents-subsections a { color: var(--secondary); font-size: 12px; line-height: 1.6; text-decoration: underline; text-decoration-color: var(--border); }
+.sotu-report .sotu-contents a:hover { text-decoration: underline; }
+.sotu-report .sotu-contents a:focus-visible { outline: 2px solid var(--chart-1); outline-offset: 4px; border-radius: 2px; }
+.sotu-report .sotu-section-anchor { scroll-margin-top: 84px; min-width: 0; }
+.sotu-report .sotu-section-anchor:focus { outline: none; }
+@media (max-width: 760px) {
+  .sotu-report .sotu-contents-sections { grid-template-columns: 1fr; grid-template-rows: none; grid-auto-flow: row; gap: 12px; }
+}

@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the project and the original data providers when reusing this analysis."
+title: "How U.S. presidents talk about the world"
+authors:
+  - family-names: "Fernández"
+    given-names: "Juan Francisco"
+version: 2.0.0
+date-released: 2026-10-18
+type: software

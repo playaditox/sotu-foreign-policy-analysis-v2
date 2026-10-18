@@ -1,0 +1,2002 @@
+[
+  {
+    "sentence_id": "APP-15b24d52800b-P0002-S001",
+    "probabilities": {
+      "foreign_policy": 0.08115454742292458,
+      "wilsonian_supported": 0.061808342500093545,
+      "wilsonian_explicit": 0.03699874037347889,
+      "hamiltonian_supported": 0.014119877318857554,
+      "hamiltonian_explicit": 0.007333649842071858,
+      "jacksonian_supported": 0.012887639807181115,
+      "jacksonian_explicit": 0.3511673524478543,
+      "jeffersonian_supported": 0.12837507386472896,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-15b24d52800b-P0178-S001",
+    "probabilities": {
+      "foreign_policy": 0.0521184448336443,
+      "wilsonian_supported": 0.015667832255681687,
+      "wilsonian_explicit": 0.01272622038379947,
+      "hamiltonian_supported": 0.011176272050762064,
+      "hamiltonian_explicit": 0.014501787370776446,
+      "jacksonian_supported": 0.020503429003541865,
+      "jacksonian_explicit": 0.23304590484184665,
+      "jeffersonian_supported": 0.1570908726307011,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-15b24d52800b-P0355-S003",
+    "probabilities": {
+      "foreign_policy": 0.05381583557846872,
+      "wilsonian_supported": 0.0020746304433247494,
+      "wilsonian_explicit": 0.004306401399784818,
+      "hamiltonian_supported": 0.013503793988465572,
+      "hamiltonian_explicit": 0.011211185829102677,
+      "jacksonian_supported": 0.026284247620982762,
+      "jacksonian_explicit": 0.1806469024247614,
+      "jeffersonian_supported": 0.1443976059484996,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-5d3e0b571768-P0008-S003",
+    "probabilities": {
+      "foreign_policy": 0.0876027323533952,
+      "wilsonian_supported": 0.04922476299464559,
+      "wilsonian_explicit": 0.020138974726162304,
+      "hamiltonian_supported": 0.004047858229821682,
+      "hamiltonian_explicit": 0.007878332303926375,
+      "jacksonian_supported": 0.030918830281454143,
+      "jacksonian_explicit": 0.20467915705485717,
+      "jeffersonian_supported": 0.1990514498986887,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-6ca6e71ba4d8-P0073-S002",
+    "probabilities": {
+      "foreign_policy": 0.03573105779396612,
+      "wilsonian_supported": 0.01169514980297943,
+      "wilsonian_explicit": 0.017660269402746745,
+      "hamiltonian_supported": 0.03607997466635517,
+      "hamiltonian_explicit": 0.05631119139214548,
+      "jacksonian_supported": 0.024998179097254082,
+      "jacksonian_explicit": 0.17431749884229242,
+      "jeffersonian_supported": 0.14069537483534578,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-3b6679a8d827-P0047-S002",
+    "probabilities": {
+      "foreign_policy": 0.03717194972002213,
+      "wilsonian_supported": 0.014220180666095482,
+      "wilsonian_explicit": 0.01780905682735805,
+      "hamiltonian_supported": 0.044137707118531266,
+      "hamiltonian_explicit": 0.025788555503927908,
+      "jacksonian_supported": 0.02424071173819625,
+      "jacksonian_explicit": 0.19597627521962366,
+      "jeffersonian_supported": 0.13392233683663227,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-14dbb0ac34ba-P0045-S001",
+    "probabilities": {
+      "foreign_policy": 0.931983933306156,
+      "wilsonian_supported": 0.3120973238662244,
+      "wilsonian_explicit": 0.15224999929777527,
+      "hamiltonian_supported": 0.409006657757915,
+      "hamiltonian_explicit": 0.06395116510595121,
+      "jacksonian_supported": 0.09641302726658435,
+      "jacksonian_explicit": 0.4582798998270015,
+      "jeffersonian_supported": 0.23200677541341913,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 1,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 1,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 1,
+      "jacksonian_explicit": 1,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-e65ee983c2cf-P0110-S002",
+    "probabilities": {
+      "foreign_policy": 0.987785429619501,
+      "wilsonian_supported": 0.7256438720618362,
+      "wilsonian_explicit": 0.6497580297805765,
+      "hamiltonian_supported": 0.9791323866548582,
+      "hamiltonian_explicit": 0.09188473397699118,
+      "jacksonian_supported": 0.04642337144562574,
+      "jacksonian_explicit": 0.3364651408601955,
+      "jeffersonian_supported": 0.1849245435344697,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 1,
+      "wilsonian_explicit": 1,
+      "hamiltonian_supported": 1,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 1,
+      "jacksonian_explicit": 1,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-8c91288d5fa6-P0125-S001",
+    "probabilities": {
+      "foreign_policy": 0.11047133570729306,
+      "wilsonian_supported": 0.012429885078709535,
+      "wilsonian_explicit": 0.01936332833602816,
+      "hamiltonian_supported": 0.02754234895686203,
+      "hamiltonian_explicit": 0.018999354861537265,
+      "jacksonian_supported": 0.03709282055298922,
+      "jacksonian_explicit": 0.26425570577834717,
+      "jeffersonian_supported": 0.15292451278538172,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-c1f29c3de783-P0019-S003",
+    "probabilities": {
+      "foreign_policy": 0.9985232606118405,
+      "wilsonian_supported": 0.45635321309696913,
+      "wilsonian_explicit": 0.1691254994976301,
+      "hamiltonian_supported": 0.9978089649288198,
+      "hamiltonian_explicit": 0.796137571265259,
+      "jacksonian_supported": 0.02704445756125512,
+      "jacksonian_explicit": 0.18615499954415315,
+      "jeffersonian_supported": 0.1587779629193212,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 1,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 1,
+      "hamiltonian_explicit": 1,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-519699dd042d-P0049-S004",
+    "probabilities": {
+      "foreign_policy": 0.24434951886842327,
+      "wilsonian_supported": 0.010872278716617145,
+      "wilsonian_explicit": 0.017103305542939932,
+      "hamiltonian_supported": 0.3532758862803113,
+      "hamiltonian_explicit": 0.08025580397286015,
+      "jacksonian_supported": 0.022545908260999312,
+      "jacksonian_explicit": 0.15683695012810964,
+      "jeffersonian_supported": 0.13704862304071716,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-3dc83b727861-P0052-S005",
+    "probabilities": {
+      "foreign_policy": 0.9836734871906186,
+      "wilsonian_supported": 0.7506405795619131,
+      "wilsonian_explicit": 0.5901703983123621,
+      "hamiltonian_supported": 0.8345112377237535,
+      "hamiltonian_explicit": 0.09664360581294354,
+      "jacksonian_supported": 0.036931190576831356,
+      "jacksonian_explicit": 0.20483131196066,
+      "jeffersonian_supported": 0.18592778002128268,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 1,
+      "wilsonian_explicit": 1,
+      "hamiltonian_supported": 1,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-1eedcb92484d-P0058-S003",
+    "probabilities": {
+      "foreign_policy": 0.23536272312943468,
+      "wilsonian_supported": 0.032490272310901375,
+      "wilsonian_explicit": 0.03235552258850667,
+      "hamiltonian_supported": 0.0488632478281546,
+      "hamiltonian_explicit": 0.02837709935315523,
+      "jacksonian_supported": 0.024311971338776075,
+      "jacksonian_explicit": 0.18878771247243656,
+      "jeffersonian_supported": 0.16891460657417376,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-d264249c78f7-P0016-S002",
+    "probabilities": {
+      "foreign_policy": 0.888223884057291,
+      "wilsonian_supported": 0.35249627222998714,
+      "wilsonian_explicit": 0.11752174307769828,
+      "hamiltonian_supported": 0.0592044364609044,
+      "hamiltonian_explicit": 0.025836985485450926,
+      "jacksonian_supported": 0.03341364447026711,
+      "jacksonian_explicit": 0.17760860554816346,
+      "jeffersonian_supported": 0.20857508220869359,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 1,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-a1dad24f6461-P0073-S002",
+    "probabilities": {
+      "foreign_policy": 0.02770914078428968,
+      "wilsonian_supported": 0.008735743157285362,
+      "wilsonian_explicit": 0.007726705258177572,
+      "hamiltonian_supported": 0.008506700079599753,
+      "hamiltonian_explicit": 0.007773700219017458,
+      "jacksonian_supported": 0.026352255362422857,
+      "jacksonian_explicit": 0.23804407680237918,
+      "jeffersonian_supported": 0.15449413403922138,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-ac642b5dd039-P0060-S002",
+    "probabilities": {
+      "foreign_policy": 0.9542771100049081,
+      "wilsonian_supported": 0.23572683822471882,
+      "wilsonian_explicit": 0.1134192979507476,
+      "hamiltonian_supported": 0.891124397682799,
+      "hamiltonian_explicit": 0.05941759933517515,
+      "jacksonian_supported": 0.0347246933738779,
+      "jacksonian_explicit": 0.17397887552403968,
+      "jeffersonian_supported": 0.17988044618515905,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 1,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 1,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-deaefa819b00-P0129-S001",
+    "probabilities": {
+      "foreign_policy": 0.155627424084743,
+      "wilsonian_supported": 0.031387162695421,
+      "wilsonian_explicit": 0.02324776036562206,
+      "hamiltonian_supported": 0.08432322482005528,
+      "hamiltonian_explicit": 0.012912789274307503,
+      "jacksonian_supported": 0.024719334104539088,
+      "jacksonian_explicit": 0.19924392606722918,
+      "jeffersonian_supported": 0.13717485712222457,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-15bc4bb9e819-P0057-S001",
+    "probabilities": {
+      "foreign_policy": 0.14406059862712928,
+      "wilsonian_supported": 0.034017051104305314,
+      "wilsonian_explicit": 0.057282307346369056,
+      "hamiltonian_supported": 0.08132801199138706,
+      "hamiltonian_explicit": 0.08378746861519594,
+      "jacksonian_supported": 0.04375471762903889,
+      "jacksonian_explicit": 0.29311738389610714,
+      "jeffersonian_supported": 0.14006448454470072,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-344e0b411648-P0103-S001",
+    "probabilities": {
+      "foreign_policy": 0.029919636243192858,
+      "wilsonian_supported": 0.0012440623515166693,
+      "wilsonian_explicit": 0.0026932309045233503,
+      "hamiltonian_supported": 0.006235847309272282,
+      "hamiltonian_explicit": 0.009520394755969129,
+      "jacksonian_supported": 0.10454749519943526,
+      "jacksonian_explicit": 0.3663339383529354,
+      "jeffersonian_supported": 0.1396046974213201,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-b6146291a20f-P0004-S001",
+    "probabilities": {
+      "foreign_policy": 0.012486350324827186,
+      "wilsonian_supported": 0.02657555052561721,
+      "wilsonian_explicit": 0.02044804982694791,
+      "hamiltonian_supported": 0.0010244671764181258,
+      "hamiltonian_explicit": 0.0046615945464848025,
+      "jacksonian_supported": 0.02110967306038734,
+      "jacksonian_explicit": 0.1587828030418265,
+      "jeffersonian_supported": 0.16301383402834435,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-58336a261dd1-P0041-S003",
+    "probabilities": {
+      "foreign_policy": 0.9466832134199242,
+      "wilsonian_supported": 0.005815205874943927,
+      "wilsonian_explicit": 0.007875073067139061,
+      "hamiltonian_supported": 0.05510288997574944,
+      "hamiltonian_explicit": 0.016362575289147585,
+      "jacksonian_supported": 0.2216432171680332,
+      "jacksonian_explicit": 0.3257262051788138,
+      "jeffersonian_supported": 0.3363942197172273,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 1,
+      "jacksonian_explicit": 1,
+      "jeffersonian_supported": 1,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-58336a261dd1-P0196-S004",
+    "probabilities": {
+      "foreign_policy": 0.005797650850020129,
+      "wilsonian_supported": 0.005429994699263943,
+      "wilsonian_explicit": 0.007101064249703812,
+      "hamiltonian_supported": 0.011468833718528606,
+      "hamiltonian_explicit": 0.010108931897963878,
+      "jacksonian_supported": 0.024396504920050847,
+      "jacksonian_explicit": 0.21578733015574336,
+      "jeffersonian_supported": 0.14734772043957015,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-81ddb18a743c-P0029-S001",
+    "probabilities": {
+      "foreign_policy": 0.01981593985285307,
+      "wilsonian_supported": 0.01601990208573461,
+      "wilsonian_explicit": 0.01113341142942409,
+      "hamiltonian_supported": 0.013562046167458283,
+      "hamiltonian_explicit": 0.010032057392277121,
+      "jacksonian_supported": 0.022668154757581688,
+      "jacksonian_explicit": 0.22427742635590664,
+      "jeffersonian_supported": 0.13278180444242474,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-8d0d91b380f2-P0084-S001",
+    "probabilities": {
+      "foreign_policy": 0.9897234974792305,
+      "wilsonian_supported": 0.09641517677658451,
+      "wilsonian_explicit": 0.05202142046698814,
+      "hamiltonian_supported": 0.9753515276995643,
+      "hamiltonian_explicit": 0.42902167860700496,
+      "jacksonian_supported": 0.027179218726542647,
+      "jacksonian_explicit": 0.28491583261323045,
+      "jeffersonian_supported": 0.1520138745870647,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 1,
+      "hamiltonian_explicit": 1,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-8b013b80fdcb-P0158-S001",
+    "probabilities": {
+      "foreign_policy": 0.015277011746466252,
+      "wilsonian_supported": 0.03246856561212191,
+      "wilsonian_explicit": 0.024505350465024594,
+      "hamiltonian_supported": 0.004438910547761866,
+      "hamiltonian_explicit": 0.009017653054749752,
+      "jacksonian_supported": 0.02168636415095427,
+      "jacksonian_explicit": 0.1776312720218396,
+      "jeffersonian_supported": 0.14034970378238354,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-c68f026baf80-P0019-S002",
+    "probabilities": {
+      "foreign_policy": 0.006645783973757943,
+      "wilsonian_supported": 0.0052214493971093475,
+      "wilsonian_explicit": 0.004580612613653942,
+      "hamiltonian_supported": 0.0034634292614852498,
+      "hamiltonian_explicit": 0.01075610801073015,
+      "jacksonian_supported": 0.02453756650404869,
+      "jacksonian_explicit": 0.2087512129747543,
+      "jeffersonian_supported": 0.1445056152565235,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-8bd027168c61-P0106-S006",
+    "probabilities": {
+      "foreign_policy": 0.11462506918081959,
+      "wilsonian_supported": 0.03416752275338412,
+      "wilsonian_explicit": 0.02795342620243897,
+      "hamiltonian_supported": 0.06966819933474151,
+      "hamiltonian_explicit": 0.034629206121834157,
+      "jacksonian_supported": 0.02572827447326395,
+      "jacksonian_explicit": 0.2382553858262202,
+      "jeffersonian_supported": 0.16297897409504622,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-8bd027168c61-P0343-S001",
+    "probabilities": {
+      "foreign_policy": 0.006832616713050381,
+      "wilsonian_supported": 0.005770974588809551,
+      "wilsonian_explicit": 0.005243156584459943,
+      "hamiltonian_supported": 0.007977503300559444,
+      "hamiltonian_explicit": 0.03007808912034174,
+      "jacksonian_supported": 0.02463341038978,
+      "jacksonian_explicit": 0.1799008353767761,
+      "jeffersonian_supported": 0.13139822637234144,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-c2f77f93c967-P0067-S002",
+    "probabilities": {
+      "foreign_policy": 0.9981176295157977,
+      "wilsonian_supported": 0.5249330324626228,
+      "wilsonian_explicit": 0.39945933563869934,
+      "hamiltonian_supported": 0.9934725327790794,
+      "hamiltonian_explicit": 0.4500617941355425,
+      "jacksonian_supported": 0.08343583840216025,
+      "jacksonian_explicit": 0.35469257523322817,
+      "jeffersonian_supported": 0.25239470081711163,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 1,
+      "wilsonian_explicit": 1,
+      "hamiltonian_supported": 1,
+      "hamiltonian_explicit": 1,
+      "jacksonian_supported": 1,
+      "jacksonian_explicit": 1,
+      "jeffersonian_supported": 1,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-4d9b28c55acd-P0069-S003",
+    "probabilities": {
+      "foreign_policy": 0.011621439971840966,
+      "wilsonian_supported": 0.009808235815353387,
+      "wilsonian_explicit": 0.006511261629076139,
+      "hamiltonian_supported": 0.006242341907400329,
+      "hamiltonian_explicit": 0.01690457175233289,
+      "jacksonian_supported": 0.028781854324814286,
+      "jacksonian_explicit": 0.2171165598927783,
+      "jeffersonian_supported": 0.13775723552671146,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-f049a3922e47-P0056-S001",
+    "probabilities": {
+      "foreign_policy": 0.016983693501775542,
+      "wilsonian_supported": 0.005016900726410546,
+      "wilsonian_explicit": 0.004632888485462604,
+      "hamiltonian_supported": 0.010900327633961867,
+      "hamiltonian_explicit": 0.0077363015831799446,
+      "jacksonian_supported": 0.03954935767306309,
+      "jacksonian_explicit": 0.17189152144588316,
+      "jeffersonian_supported": 0.15500836136541016,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-f7ff872ba81d-P0178-S002",
+    "probabilities": {
+      "foreign_policy": 0.025189554687422372,
+      "wilsonian_supported": 0.00904461327818608,
+      "wilsonian_explicit": 0.009981753663597845,
+      "hamiltonian_supported": 0.004692492560272354,
+      "hamiltonian_explicit": 0.00989717715072135,
+      "jacksonian_supported": 0.03950849177974366,
+      "jacksonian_explicit": 0.2328772275575576,
+      "jeffersonian_supported": 0.1656325974263597,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-99fb94c3f5be-P0058-S003",
+    "probabilities": {
+      "foreign_policy": 0.9774393333889291,
+      "wilsonian_supported": 0.33984928828373334,
+      "wilsonian_explicit": 0.15320636746331887,
+      "hamiltonian_supported": 0.7641235485831954,
+      "hamiltonian_explicit": 0.1164432417875544,
+      "jacksonian_supported": 0.06429429332554554,
+      "jacksonian_explicit": 0.2673843445106575,
+      "jeffersonian_supported": 0.21185362392206028,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 1,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 1,
+      "hamiltonian_explicit": 1,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-9d8e4e547682-P0197-S001",
+    "probabilities": {
+      "foreign_policy": 0.014016361627250062,
+      "wilsonian_supported": 0.0046532702025223315,
+      "wilsonian_explicit": 0.011302087050900135,
+      "hamiltonian_supported": 0.02835816065634869,
+      "hamiltonian_explicit": 0.028379668849327088,
+      "jacksonian_supported": 0.01398072610060847,
+      "jacksonian_explicit": 0.21874726569746258,
+      "jeffersonian_supported": 0.13062135137542683,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-9d8e4e547682-P0411-S001",
+    "probabilities": {
+      "foreign_policy": 0.6463821838632352,
+      "wilsonian_supported": 0.04248768820499452,
+      "wilsonian_explicit": 0.04195178860258543,
+      "hamiltonian_supported": 0.4159673875041447,
+      "hamiltonian_explicit": 0.05667688411176927,
+      "jacksonian_supported": 0.026424742491429922,
+      "jacksonian_explicit": 0.28421124918312596,
+      "jeffersonian_supported": 0.17294321987328712,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 1,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-7e6989ef9069-P0147-S002",
+    "probabilities": {
+      "foreign_policy": 0.8040760902122996,
+      "wilsonian_supported": 0.011712937103907108,
+      "wilsonian_explicit": 0.01425235637762764,
+      "hamiltonian_supported": 0.940491116811967,
+      "hamiltonian_explicit": 0.6143092402086955,
+      "jacksonian_supported": 0.03932744273487854,
+      "jacksonian_explicit": 0.16512687113421595,
+      "jeffersonian_supported": 0.13153052749691346,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 1,
+      "hamiltonian_explicit": 1,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-7e6989ef9069-P0334-S003",
+    "probabilities": {
+      "foreign_policy": 0.015050935099073383,
+      "wilsonian_supported": 0.0040431738357472515,
+      "wilsonian_explicit": 0.006974544840160439,
+      "hamiltonian_supported": 0.00966947654958241,
+      "hamiltonian_explicit": 0.00995085400092447,
+      "jacksonian_supported": 0.020115035414190855,
+      "jacksonian_explicit": 0.23777469248813946,
+      "jeffersonian_supported": 0.12906362008279038,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-7e6989ef9069-P0532-S004",
+    "probabilities": {
+      "foreign_policy": 0.9595364600599755,
+      "wilsonian_supported": 0.8537468702275904,
+      "wilsonian_explicit": 0.8597407968225854,
+      "hamiltonian_supported": 0.06680440643926887,
+      "hamiltonian_explicit": 0.02254025883938372,
+      "jacksonian_supported": 0.408530487716599,
+      "jacksonian_explicit": 0.7790013135657885,
+      "jeffersonian_supported": 0.19415081625787758,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 1,
+      "wilsonian_explicit": 1,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 1,
+      "jacksonian_explicit": 1,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-812898226f77-P0026-S002",
+    "probabilities": {
+      "foreign_policy": 0.9986118543631152,
+      "wilsonian_supported": 0.8313319895464255,
+      "wilsonian_explicit": 0.4498038475029399,
+      "hamiltonian_supported": 0.9969551381183346,
+      "hamiltonian_explicit": 0.8019258117681888,
+      "jacksonian_supported": 0.03469606162470155,
+      "jacksonian_explicit": 0.21936169362702215,
+      "jeffersonian_supported": 0.22149494116428478,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 1,
+      "wilsonian_explicit": 1,
+      "hamiltonian_supported": 1,
+      "hamiltonian_explicit": 1,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-6f0e5e93f104-P0176-S001",
+    "probabilities": {
+      "foreign_policy": 0.03456816609107804,
+      "wilsonian_supported": 0.014714401752308167,
+      "wilsonian_explicit": 0.016013106795507524,
+      "hamiltonian_supported": 0.014920177670536286,
+      "hamiltonian_explicit": 0.01701753541500357,
+      "jacksonian_supported": 0.04189665644787764,
+      "jacksonian_explicit": 0.1548784868542116,
+      "jeffersonian_supported": 0.13791413641825176,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-6f0e5e93f104-P0364-S002",
+    "probabilities": {
+      "foreign_policy": 0.03753968671066737,
+      "wilsonian_supported": 0.032460141811435764,
+      "wilsonian_explicit": 0.03495557651259597,
+      "hamiltonian_supported": 0.011053283277691197,
+      "hamiltonian_explicit": 0.013622502537228066,
+      "jacksonian_supported": 0.04101853814862416,
+      "jacksonian_explicit": 0.19594502424456295,
+      "jeffersonian_supported": 0.14915429993623847,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-6f0e5e93f104-P0576-S003",
+    "probabilities": {
+      "foreign_policy": 0.9971734647281265,
+      "wilsonian_supported": 0.4051400074779033,
+      "wilsonian_explicit": 0.2521542490459057,
+      "hamiltonian_supported": 0.9706171440923288,
+      "hamiltonian_explicit": 0.2711943141585876,
+      "jacksonian_supported": 0.03136126117597573,
+      "jacksonian_explicit": 0.25816407781108464,
+      "jeffersonian_supported": 0.20731045435585013,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 1,
+      "wilsonian_explicit": 1,
+      "hamiltonian_supported": 1,
+      "hamiltonian_explicit": 1,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-f534fa32f56a-P0032-S006",
+    "probabilities": {
+      "foreign_policy": 0.5123098418289486,
+      "wilsonian_supported": 0.0035682253296052155,
+      "wilsonian_explicit": 0.005228894392928016,
+      "hamiltonian_supported": 0.6449822444929404,
+      "hamiltonian_explicit": 0.05449362796587292,
+      "jacksonian_supported": 0.042885880963749415,
+      "jacksonian_explicit": 0.30136512314106306,
+      "jeffersonian_supported": 0.16618233194577137,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 1,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 1,
+      "jacksonian_explicit": 1,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-d3cb28773b0f-P0029-S007",
+    "probabilities": {
+      "foreign_policy": 0.12852715806794332,
+      "wilsonian_supported": 0.007824490114048632,
+      "wilsonian_explicit": 0.007708149781751955,
+      "hamiltonian_supported": 0.0873296938507622,
+      "hamiltonian_explicit": 0.019975740209372258,
+      "jacksonian_supported": 0.034454767715031163,
+      "jacksonian_explicit": 0.1764398841675141,
+      "jeffersonian_supported": 0.14308077525111887,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-39b8a6adcc6b-P0077-S002",
+    "probabilities": {
+      "foreign_policy": 0.3002237233336666,
+      "wilsonian_supported": 0.2143043100261406,
+      "wilsonian_explicit": 0.07204350940708276,
+      "hamiltonian_supported": 0.01654698354991275,
+      "hamiltonian_explicit": 0.008235063442979815,
+      "jacksonian_supported": 0.02469215751766158,
+      "jacksonian_explicit": 0.22677027304319866,
+      "jeffersonian_supported": 0.17151128915099775,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-c78516751ad1-P0006-S007",
+    "probabilities": {
+      "foreign_policy": 0.8695708685022748,
+      "wilsonian_supported": 0.13372704210058659,
+      "wilsonian_explicit": 0.049640313385037535,
+      "hamiltonian_supported": 0.41538247803651923,
+      "hamiltonian_explicit": 0.03397883551941279,
+      "jacksonian_supported": 0.06234203817950428,
+      "jacksonian_explicit": 0.3487666664096258,
+      "jeffersonian_supported": 0.2443788757740837,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 1,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 1,
+      "jacksonian_explicit": 1,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-05683da2326b-P0011-S008",
+    "probabilities": {
+      "foreign_policy": 0.13872160833646874,
+      "wilsonian_supported": 0.012026556356211129,
+      "wilsonian_explicit": 0.010770288646533037,
+      "hamiltonian_supported": 0.09334642335811666,
+      "hamiltonian_explicit": 0.04192423796205501,
+      "jacksonian_supported": 0.03669374074775924,
+      "jacksonian_explicit": 0.2408604661125504,
+      "jeffersonian_supported": 0.16296843383581333,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-610f5d864e65-P0009-S003",
+    "probabilities": {
+      "foreign_policy": 0.9916644327913345,
+      "wilsonian_supported": 0.9861743466481958,
+      "wilsonian_explicit": 0.11324200561183849,
+      "hamiltonian_supported": 0.02234215942939874,
+      "hamiltonian_explicit": 0.013889195455138989,
+      "jacksonian_supported": 0.024224174952068113,
+      "jacksonian_explicit": 0.2627313489431567,
+      "jeffersonian_supported": 0.17563057856311928,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 1,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-2013664808d8-P0052-S003",
+    "probabilities": {
+      "foreign_policy": 0.006085322784792842,
+      "wilsonian_supported": 0.001394539186939371,
+      "wilsonian_explicit": 0.0015560076417997937,
+      "hamiltonian_supported": 0.009961998865238403,
+      "hamiltonian_explicit": 0.01495707566687797,
+      "jacksonian_supported": 0.031595520095636764,
+      "jacksonian_explicit": 0.1867007735959458,
+      "jeffersonian_supported": 0.13165687964539996,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-9d107b0aaa33-P0020-S003",
+    "probabilities": {
+      "foreign_policy": 0.5343387366221758,
+      "wilsonian_supported": 0.013804209601484051,
+      "wilsonian_explicit": 0.01263073079533895,
+      "hamiltonian_supported": 0.46083395932987575,
+      "hamiltonian_explicit": 0.19877265900932214,
+      "jacksonian_supported": 0.1005276600168057,
+      "jacksonian_explicit": 0.22606227251513883,
+      "jeffersonian_supported": 0.18658981925891438,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 1,
+      "hamiltonian_explicit": 1,
+      "jacksonian_supported": 1,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-a5811228c80d-P0038-S001",
+    "probabilities": {
+      "foreign_policy": 0.010765047028296568,
+      "wilsonian_supported": 0.003951176340643421,
+      "wilsonian_explicit": 0.00656895030884973,
+      "hamiltonian_supported": 0.004014797571797388,
+      "hamiltonian_explicit": 0.003761641940972505,
+      "jacksonian_supported": 0.1005696162983164,
+      "jacksonian_explicit": 0.23368262340841278,
+      "jeffersonian_supported": 0.1491585203115554,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-36f78781f7ec-P0038-S001",
+    "probabilities": {
+      "foreign_policy": 0.009129522930004456,
+      "wilsonian_supported": 0.006021610907385607,
+      "wilsonian_explicit": 0.009173551395608003,
+      "hamiltonian_supported": 0.008416211294343055,
+      "hamiltonian_explicit": 0.013092103819935915,
+      "jacksonian_supported": 0.04842684925317531,
+      "jacksonian_explicit": 0.26493490781883106,
+      "jeffersonian_supported": 0.14026622068832303,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-73dcc22b91bf-P0063-S001",
+    "probabilities": {
+      "foreign_policy": 0.9941447175052718,
+      "wilsonian_supported": 0.6288751673900104,
+      "wilsonian_explicit": 0.3513005299253528,
+      "hamiltonian_supported": 0.9326010472838813,
+      "hamiltonian_explicit": 0.10211538127705488,
+      "jacksonian_supported": 0.07737486093754248,
+      "jacksonian_explicit": 0.3227923919435965,
+      "jeffersonian_supported": 0.2563501790801835,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 1,
+      "wilsonian_explicit": 1,
+      "hamiltonian_supported": 1,
+      "hamiltonian_explicit": 1,
+      "jacksonian_supported": 1,
+      "jacksonian_explicit": 1,
+      "jeffersonian_supported": 1,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-61f46b99a5e6-P0081-S002",
+    "probabilities": {
+      "foreign_policy": 0.05446579722474899,
+      "wilsonian_supported": 0.01677969989970976,
+      "wilsonian_explicit": 0.01618855872493116,
+      "hamiltonian_supported": 0.023014272639668373,
+      "hamiltonian_explicit": 0.018381443880576255,
+      "jacksonian_supported": 0.02814461346184323,
+      "jacksonian_explicit": 0.2971438579500148,
+      "jeffersonian_supported": 0.17327691669862788,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-cba4f005bb44-P0016-S005",
+    "probabilities": {
+      "foreign_policy": 0.44198435457785196,
+      "wilsonian_supported": 0.040882925571630056,
+      "wilsonian_explicit": 0.02016299403112581,
+      "hamiltonian_supported": 0.0409002201867726,
+      "hamiltonian_explicit": 0.010001369870771208,
+      "jacksonian_supported": 0.0489047631101666,
+      "jacksonian_explicit": 0.2967222334556626,
+      "jeffersonian_supported": 0.21211134284780594,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-c0dbf3cb714d-P0003-S003",
+    "probabilities": {
+      "foreign_policy": 0.24418473598815474,
+      "wilsonian_supported": 0.061592004512969326,
+      "wilsonian_explicit": 0.041201800572247343,
+      "hamiltonian_supported": 0.034970561637900896,
+      "hamiltonian_explicit": 0.010387486838508637,
+      "jacksonian_supported": 0.04785777017814247,
+      "jacksonian_explicit": 0.21917837942768248,
+      "jeffersonian_supported": 0.19799924649457734,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-4850d112ccad-P0058-S002",
+    "probabilities": {
+      "foreign_policy": 0.9970407744498787,
+      "wilsonian_supported": 0.8994451990847507,
+      "wilsonian_explicit": 0.6916825936868847,
+      "hamiltonian_supported": 0.7797257313471693,
+      "hamiltonian_explicit": 0.1054542810225977,
+      "jacksonian_supported": 0.08041352690946972,
+      "jacksonian_explicit": 0.2449610612504379,
+      "jeffersonian_supported": 0.1808032145480997,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 1,
+      "wilsonian_explicit": 1,
+      "hamiltonian_supported": 1,
+      "hamiltonian_explicit": 1,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-ae686e9f14d3-P0034-S003",
+    "probabilities": {
+      "foreign_policy": 0.012368014175241023,
+      "wilsonian_supported": 0.0008787860296202044,
+      "wilsonian_explicit": 0.001575324035264832,
+      "hamiltonian_supported": 0.018950597180872438,
+      "hamiltonian_explicit": 0.01114569899587163,
+      "jacksonian_supported": 0.02409178602121765,
+      "jacksonian_explicit": 0.1531129412894361,
+      "jeffersonian_supported": 0.1364092185539071,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-f0055ace90be-P0015-S002",
+    "probabilities": {
+      "foreign_policy": 0.9278121488855716,
+      "wilsonian_supported": 0.16881081269174977,
+      "wilsonian_explicit": 0.07438401401030142,
+      "hamiltonian_supported": 0.40142632265011835,
+      "hamiltonian_explicit": 0.024541583306413286,
+      "jacksonian_supported": 0.029780982495093342,
+      "jacksonian_explicit": 0.2766797965025472,
+      "jeffersonian_supported": 0.24297539062630594,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 1,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 1,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-1dade65d3add-P0054-S004",
+    "probabilities": {
+      "foreign_policy": 0.7048262072495393,
+      "wilsonian_supported": 0.29478285268104554,
+      "wilsonian_explicit": 0.16561104697203027,
+      "hamiltonian_supported": 0.17520931870157191,
+      "hamiltonian_explicit": 0.058321336476634594,
+      "jacksonian_supported": 0.031643201193003796,
+      "jacksonian_explicit": 0.18150412819859754,
+      "jeffersonian_supported": 0.1769957103028498,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 1,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-d5a759a79856-P0027-S001",
+    "probabilities": {
+      "foreign_policy": 0.15097747705976233,
+      "wilsonian_supported": 0.011231400862569208,
+      "wilsonian_explicit": 0.008263757666004604,
+      "hamiltonian_supported": 0.1622926025196546,
+      "hamiltonian_explicit": 0.062146780386123125,
+      "jacksonian_supported": 0.1392153176315197,
+      "jacksonian_explicit": 0.23511077648776618,
+      "jeffersonian_supported": 0.15555823030526958,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-206aa05ae0aa-P0061-S001",
+    "probabilities": {
+      "foreign_policy": 0.013473559604010617,
+      "wilsonian_supported": 0.0026762565792298517,
+      "wilsonian_explicit": 0.0020017203588010954,
+      "hamiltonian_supported": 0.013759231807755394,
+      "hamiltonian_explicit": 0.014294397377081172,
+      "jacksonian_supported": 0.0414674447681644,
+      "jacksonian_explicit": 0.34126522664454245,
+      "jeffersonian_supported": 0.16476389458525673,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-a5ce8b20ad8f-P0079-S003",
+    "probabilities": {
+      "foreign_policy": 0.7524869089848579,
+      "wilsonian_supported": 0.22896934688020826,
+      "wilsonian_explicit": 0.09547327707625106,
+      "hamiltonian_supported": 0.18172770159192544,
+      "hamiltonian_explicit": 0.03454088864216248,
+      "jacksonian_supported": 0.0754552213969333,
+      "jacksonian_explicit": 0.16689168925160885,
+      "jeffersonian_supported": 0.19263521815812945,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 1,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-d5937a519ed3-P0091-S003",
+    "probabilities": {
+      "foreign_policy": 0.9937176989918424,
+      "wilsonian_supported": 0.8927316398636623,
+      "wilsonian_explicit": 0.8358025232912258,
+      "hamiltonian_supported": 0.8408548413285757,
+      "hamiltonian_explicit": 0.022545832154968144,
+      "jacksonian_supported": 0.14840632946213528,
+      "jacksonian_explicit": 0.3358299657287738,
+      "jeffersonian_supported": 0.22650407543332463,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 1,
+      "wilsonian_explicit": 1,
+      "hamiltonian_supported": 1,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 1,
+      "jacksonian_explicit": 1,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-a6e986e2badf-P0011-S001",
+    "probabilities": {
+      "foreign_policy": 0.01586283068187731,
+      "wilsonian_supported": 0.0028983593476912296,
+      "wilsonian_explicit": 0.00416295518346236,
+      "hamiltonian_supported": 0.011817188109319102,
+      "hamiltonian_explicit": 0.00934487305948125,
+      "jacksonian_supported": 0.034207692692660045,
+      "jacksonian_explicit": 0.1450664309828999,
+      "jeffersonian_supported": 0.16729957603414347,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-3d09518cfc0e-P0028-S003",
+    "probabilities": {
+      "foreign_policy": 0.013615125156179683,
+      "wilsonian_supported": 0.005813426245777861,
+      "wilsonian_explicit": 0.005703146278358796,
+      "hamiltonian_supported": 0.005894895008601276,
+      "hamiltonian_explicit": 0.010052209204528043,
+      "jacksonian_supported": 0.0298951048360967,
+      "jacksonian_explicit": 0.19562046412225317,
+      "jeffersonian_supported": 0.17653491365645815,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-86bfd5bd3af9-P0039-S001",
+    "probabilities": {
+      "foreign_policy": 0.9897949527593816,
+      "wilsonian_supported": 0.3032461945995066,
+      "wilsonian_explicit": 0.11445669144634557,
+      "hamiltonian_supported": 0.9344270114129899,
+      "hamiltonian_explicit": 0.019712092151606624,
+      "jacksonian_supported": 0.06843390873764242,
+      "jacksonian_explicit": 0.44237227358889747,
+      "jeffersonian_supported": 0.3146071528095647,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 1,
+      "wilsonian_supported": 1,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 1,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 1,
+      "jacksonian_explicit": 1,
+      "jeffersonian_supported": 1,
+      "jeffersonian_explicit": null
+    }
+  },
+  {
+    "sentence_id": "APP-46c3c507a84a-P0004-S004",
+    "probabilities": {
+      "foreign_policy": 0.03195391166674412,
+      "wilsonian_supported": 0.023474582046601786,
+      "wilsonian_explicit": 0.0166093318691141,
+      "hamiltonian_supported": 0.0009786441555288388,
+      "hamiltonian_explicit": 0.0032339045991789856,
+      "jacksonian_supported": 0.027282655545084643,
+      "jacksonian_explicit": 0.16784067931538862,
+      "jeffersonian_supported": 0.17397159476547297,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-7f92855ffdb4-P0023-S005",
+    "probabilities": {
+      "foreign_policy": 0.01306334930441994,
+      "wilsonian_supported": 0.02037729103084082,
+      "wilsonian_explicit": 0.01057560728834043,
+      "hamiltonian_supported": 0.002328836788634151,
+      "hamiltonian_explicit": 0.0038190749202016722,
+      "jacksonian_supported": 0.02551055843358851,
+      "jacksonian_explicit": 0.1843615679488815,
+      "jeffersonian_supported": 0.15912189331021181,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-f306bce2621d-P0035-S002",
+    "probabilities": {
+      "foreign_policy": 0.02267940020358048,
+      "wilsonian_supported": 0.013333925115087545,
+      "wilsonian_explicit": 0.012394178201560618,
+      "hamiltonian_supported": 0.003617428965836643,
+      "hamiltonian_explicit": 0.006538665262615701,
+      "jacksonian_supported": 0.030658387078163263,
+      "jacksonian_explicit": 0.29720865626193865,
+      "jeffersonian_supported": 0.14900883451016805,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-89e6497d44d1-P0052-S005",
+    "probabilities": {
+      "foreign_policy": 0.023381742087807578,
+      "wilsonian_supported": 0.009617379375447833,
+      "wilsonian_explicit": 0.004975753611647456,
+      "hamiltonian_supported": 0.005336468589168309,
+      "hamiltonian_explicit": 0.008011644258889927,
+      "jacksonian_supported": 0.038042835757499144,
+      "jacksonian_explicit": 0.18173382565861854,
+      "jeffersonian_supported": 0.16664282086642493,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-18ce2ec9cfec-P0035-S001",
+    "probabilities": {
+      "foreign_policy": 0.05575120058600076,
+      "wilsonian_supported": 0.003226418426643556,
+      "wilsonian_explicit": 0.005216135509669995,
+      "hamiltonian_supported": 0.01263875146210214,
+      "hamiltonian_explicit": 0.010855533280301394,
+      "jacksonian_supported": 0.0893242612753984,
+      "jacksonian_explicit": 0.288186823688121,
+      "jeffersonian_supported": 0.17069759665605358,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-07829a7fe6b6-P0017-S002",
+    "probabilities": {
+      "foreign_policy": 0.05146941020831155,
+      "wilsonian_supported": 0.01588496398116992,
+      "wilsonian_explicit": 0.02482549404696888,
+      "hamiltonian_supported": 0.018183471226520823,
+      "hamiltonian_explicit": 0.00851598873518636,
+      "jacksonian_supported": 0.045076464851467074,
+      "jacksonian_explicit": 0.2790360880180456,
+      "jeffersonian_supported": 0.1823038697200213,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-07829a7fe6b6-P0168-S002",
+    "probabilities": {
+      "foreign_policy": 0.033965515430196734,
+      "wilsonian_supported": 0.008980635196277936,
+      "wilsonian_explicit": 0.007605361037849692,
+      "hamiltonian_supported": 0.012707066941386309,
+      "hamiltonian_explicit": 0.007912700555766618,
+      "jacksonian_supported": 0.03770440392909513,
+      "jacksonian_explicit": 0.21613822645498143,
+      "jeffersonian_supported": 0.1658907605148675,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-1a3b41144c90-P0063-S002",
+    "probabilities": {
+      "foreign_policy": 0.1866802824766882,
+      "wilsonian_supported": 0.01962200975332074,
+      "wilsonian_explicit": 0.033409718550117935,
+      "hamiltonian_supported": 0.023725339927887574,
+      "hamiltonian_explicit": 0.014454868115622204,
+      "jacksonian_supported": 0.19118102639804094,
+      "jacksonian_explicit": 0.24054496327199437,
+      "jeffersonian_supported": 0.20334853730992553,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-1a3b41144c90-P0253-S001",
+    "probabilities": {
+      "foreign_policy": 0.1365978015052115,
+      "wilsonian_supported": 0.08401092191799606,
+      "wilsonian_explicit": 0.049548053673375544,
+      "hamiltonian_supported": 0.011261377049887026,
+      "hamiltonian_explicit": 0.008236698802746883,
+      "jacksonian_supported": 0.040546530083399875,
+      "jacksonian_explicit": 0.3671901724843752,
+      "jeffersonian_supported": 0.2111395421269494,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-7f1ca02ea367-P0154-S003",
+    "probabilities": {
+      "foreign_policy": 0.008774637956673385,
+      "wilsonian_supported": 0.023745221689392686,
+      "wilsonian_explicit": 0.02323574644777162,
+      "hamiltonian_supported": 0.0016396400371260515,
+      "hamiltonian_explicit": 0.0047862195729485146,
+      "jacksonian_supported": 0.02647235405415812,
+      "jacksonian_explicit": 0.1513893442604267,
+      "jeffersonian_supported": 0.14851378713767177,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-7f1ca02ea367-P0303-S006",
+    "probabilities": {
+      "foreign_policy": 0.004111017534266396,
+      "wilsonian_supported": 0.010216481379226853,
+      "wilsonian_explicit": 0.0067821304865427305,
+      "hamiltonian_supported": 0.0005875071270843664,
+      "hamiltonian_explicit": 0.0018900415077363446,
+      "jacksonian_supported": 0.01892197616911679,
+      "jacksonian_explicit": 0.1513893442604267,
+      "jeffersonian_supported": 0.15065947807869595,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-9f061760e56b-P0153-S001",
+    "probabilities": {
+      "foreign_policy": 0.03316120539748984,
+      "wilsonian_supported": 0.010010982538551483,
+      "wilsonian_explicit": 0.008595009574567691,
+      "hamiltonian_supported": 0.0027685095175636974,
+      "hamiltonian_explicit": 0.0050262062247520365,
+      "jacksonian_supported": 0.0333532773796908,
+      "jacksonian_explicit": 0.17060855157434918,
+      "jeffersonian_supported": 0.1493444065886073,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  },
+  {
+    "sentence_id": "APP-9f061760e56b-P0306-S002",
+    "probabilities": {
+      "foreign_policy": 0.002385065575387935,
+      "wilsonian_supported": 0.011259420660042017,
+      "wilsonian_explicit": 0.00827928844387867,
+      "hamiltonian_supported": 0.0012137543072382202,
+      "hamiltonian_explicit": 0.004841270422817497,
+      "jacksonian_supported": 0.02194419605799882,
+      "jacksonian_explicit": 0.1587828030418265,
+      "jeffersonian_supported": 0.1574944826536062,
+      "jeffersonian_explicit": null
+    },
+    "decisions": {
+      "foreign_policy": 0,
+      "wilsonian_supported": 0,
+      "wilsonian_explicit": 0,
+      "hamiltonian_supported": 0,
+      "hamiltonian_explicit": 0,
+      "jacksonian_supported": 0,
+      "jacksonian_explicit": 0,
+      "jeffersonian_supported": 0,
+      "jeffersonian_explicit": 0
+    }
+  }
+]

@@ -1,0 +1,16 @@
+# Publication contains only the explicit release manifest.
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.python-deps/
+node_modules/
+portfolio/dist/
+portfolio/.data-app-offline/
+portfolio/.data-app-build/
+portfolio/.data-app-local/
+portfolio/.data-app-build.lock
+review/
+private-reference/
+research/
+output/

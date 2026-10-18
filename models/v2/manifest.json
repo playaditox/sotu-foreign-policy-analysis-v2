@@ -1,0 +1,15 @@
+{
+  "model": "contextual_rationale_v2",
+  "model_sha256": "44462abaac31752a65fe7c9411eb1b03db27c50582230e9d7b89f230520812b2",
+  "frozen_at": "2026-10-17T13:06:29.268358+00:00",
+  "software": {
+    "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "scikit_learn": "1.7.2"
+  },
+  "feature_policy": "Source text only; party/president/year/era fields excluded from main classifier.",
+  "aggregation_policy": "FP gates traditions; explicit implies supported. Report ungated errors as well. Words are original sentence words, neighbors add no denominator weight.",
+  "source_prediction_sha256": "ed93a7b8fde6f2f5058e69937f9ef77232276b94ee484eae261d2b0145488569",
+  "publication_scope": "Exact released model bytes and inference only. Development IDs, annotation sessions, fitting records, secondary models and prior releases remain private."
+}

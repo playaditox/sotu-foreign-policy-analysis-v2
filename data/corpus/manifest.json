@@ -1,0 +1,17 @@
+{
+  "documents": {
+    "rows": 100,
+    "uncompressed_sha256": "cffd94b993bccdecd05661c2e39bf092116f00d2a35d2fc9d7ea4b57a17894b2",
+    "path": "data/corpus/documents.jsonl.gz"
+  },
+  "paragraphs": {
+    "rows": 13012,
+    "uncompressed_sha256": "5518badb3427214e08bf11635ae1d44a0e28f77f74a45114ef0de5df39a162c3",
+    "path": "data/corpus/paragraphs.jsonl.gz"
+  },
+  "sentences": {
+    "rows": 35345,
+    "uncompressed_sha256": "766fbc256c7570dd6b5ce059b6cd115106d0b07beb157893fa1ba43e8dc53ef1",
+    "path": "data/corpus/sentences.jsonl.gz"
+  }
+}
