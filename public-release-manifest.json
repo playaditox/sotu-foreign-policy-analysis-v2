@@ -217,12 +217,12 @@
     {
       "path": "portfolio/release/data-app-build.json",
       "bytes": 594,
-      "sha256": "5f9aa39ac4f11411b60246f7f24e60fdc1138c688f2e61ab2685343b84b63df3"
+      "sha256": "7dfceaa64f312019b0b1f24506050792295a707f88693388575231a7def47397"
     },
     {
       "path": "portfolio/release/index.html",
-      "bytes": 2999064,
-      "sha256": "d18d2589ce08957a5cde57ee90ca99de08b22b0e6aa073ade202705408ad0b45"
+      "bytes": 2998628,
+      "sha256": "463d9570a5737b5ec4ff767f6915f0fcb1a4078a68148b7417bfc58ef3e4721a"
     },
     {
       "path": "portfolio/release/snapshot.3b25ad81fd8ac387d0e7fa676e1c673a3e6dcfff68a6f9b1afc35e3f178bd241.json",
@@ -1131,8 +1131,8 @@
     },
     {
       "path": "portfolio/src/content/report/ReportContent.jsx",
-      "bytes": 35932,
-      "sha256": "181509dd96217ee23a980be5e504a6dfb8fb96f30f9853367a5bfc5b086b7377"
+      "bytes": 35496,
+      "sha256": "d57d6e6eaad4a91f5f4187dc714b03b01b671234135fa01688d006a0cc8ddc55"
     },
     {
       "path": "portfolio/src/content/report/ReportContents.jsx",
